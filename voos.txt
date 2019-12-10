@@ -1,4 +1,3 @@
-DEPARTURE TP440 init: 0 takeoff: 100
 DEPARTURE TP89 init: 100 takeoff: 120
 DEPARTURE TP73 init: 100 takeoff: 120
 DEPARTURE TP73 init: 100 takeoff: 120
