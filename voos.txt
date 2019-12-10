@@ -20,6 +20,13 @@ ARRIVAL TP503 init: 200 eta: 680 fuel: 1000
 ARRIVAL TP504 init: 400 eta: 620 fuel: 1000
 ARRIVAL TP505 init: 400 eta: 620 fuel: 800
 ARRIVAL TP506 init: 200 eta: 480 fuel: 1000
+ARRIVAL TP506a init: 200 eta: 480 fuel: 1000
+ARRIVAL TP506b init: 200 eta: 480 fuel: 1000
+ARRIVAL TP506c init: 200 eta: 480 fuel: 1000
+ARRIVAL TP506d init: 200 eta: 480 fuel: 1000
+ARRIVAL TP506e init: 200 eta: 480 fuel: 400
+ARRIVAL TP506f init: 200 eta: 480 fuel: 400
+
 ARRIVAL TP507 init: 600 eta: 930 fuel: 2500
 ARRIVAL TP508 init: 600 eta: 930 fuel: 500
 ARRIVAL TP509 init: 700 eta: 1040 fuel: 1500
