@@ -6,14 +6,12 @@ DEPARTURE TP74 init: 120 takeoff: 220
 DEPARTURE TP75 init: 120 takeoff: 230
 DEPARTURE TP76 init: 120 takeoff: 240
 DEPARTURE TP77 init: 120 takeoff: 240
-
 DEPARTURE TP79 init: 130 takeoff: 250
 DEPARTURE TP80 init: 150 takeoff: 300
 DEPARTURE TP81 init: 160 takeoff: 310
 DEPARTURE TP82 init: 160 takeoff: 320
 DEPARTURE TP83 init: 170 takeoff: 320
 DEPARTURE TP84 init: 170 takeoff: 330
-
 
 
 ARRIVAL TP501 init: 100 eta: 200 fuel: 1500
