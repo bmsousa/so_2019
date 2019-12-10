@@ -1,0 +1,34 @@
+DEPARTURE TP440 init: 0 takeoff: 100
+DEPARTURE TP89 init: 10 takeoff: 100
+DEPARTURE TP73 init: 10 takeoff: 100
+DEPARTURE TP73 init: 10 takeoff: 100
+DEPARTURE TP74 init: 20 takeoff: 120
+DEPARTURE TP75 init: 20 takeoff: 130
+DEPARTURE TP76 init: 20 takeoff: 140
+DEPARTURE TP77 init: 20 takeoff: 140
+DEPARTURE TP78 init: 20 takeoff: 20
+DEPARTURE TP79 init: 30 takeoff: 150
+DEPARTURE TP80 init: 50 takeoff: 200
+DEPARTURE TP81 init: 60 takeoff: 210
+DEPARTURE TP82 init: 60 takeoff: 220
+DEPARTURE TP83 init: 70 takeoff: 220
+DEPARTURE TP84 init: 70 takeoff: 230
+
+
+ARRIVAL TP500 init: 0 eta: 100 fuel: 1000
+ARRIVAL TP501 init: 10 eta: 200 fuel: 1500
+ARRIVAL TP502 init: 10 eta: 100 fuel: 1500
+ARRIVAL TP502 init: 10 eta: 100 fuel: 1500
+ARRIVAL TP503 init: 20 eta: 80 fuel: 1000
+ARRIVAL TP504 init: 40 eta: 120 fuel: 1000
+ARRIVAL TP505 init: 40 eta: 120 fuel: 800
+ARRIVAL TP506 init: 20 eta: 80 fuel: 1000
+ARRIVAL TP507 init: 60 eta: 130 fuel: 2500
+ARRIVAL TP508 init: 60 eta: 130 fuel: 500
+ARRIVAL TP509 init: 70 eta: 140 fuel: 1500
+ARRIVAL TP510 init: 70 eta: 200 fuel: 1000
+ARRIVAL TP511 init: 100 eta: 200 fuel: 1000
+ARRIVAL TP512 init: 100 eta: 210 fuel: 1000
+ARRIVAL TP513 init: 100 eta: 210 fuel: 1000
+ARRIVAL TP514 init: 110 eta: 220 fuel: 1000
+ARRIVAL TP515 init: 110 eta: 220 fuel: 1000
